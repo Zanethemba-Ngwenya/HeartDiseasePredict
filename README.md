@@ -35,7 +35,9 @@ To run this project, you need:
 
 
 2. **Build**:
-    ```mvn clean install
+    ```bash
+    mvn clean install
 
 4. **Run application**:
-   ```mvn exec:java -Dexec.mainClass="wethinkcode.HeartDiseasePrediction"
+   ```bash
+   mvn exec:java -Dexec.mainClass="wethinkcode.HeartDiseasePrediction"
