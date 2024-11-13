@@ -30,7 +30,7 @@ To run this project, you need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/HeartDiseasePredict.git
+   git clone https://github.com/ZanethembaN/HeartDiseasePredict.git
    cd HeartDiseasePredict
 
 
